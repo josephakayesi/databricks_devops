@@ -1,2 +1,2 @@
 # Databricks DevOps Training
-My first commit and push.
+My first commit and push
